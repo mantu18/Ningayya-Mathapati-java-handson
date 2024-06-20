@@ -1,1 +1,1 @@
-package man.org;
+package com.mantu.service;
