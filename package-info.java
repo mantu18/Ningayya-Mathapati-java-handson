@@ -1,1 +1,1 @@
-package com.mantu.service;
+package com.mantu.dao;
