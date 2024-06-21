@@ -1,1 +1,1 @@
-package com.mantu.dao;
+package nin.com;
